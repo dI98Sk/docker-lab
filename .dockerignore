@@ -1,0 +1,13 @@
+.env*
+data/*
+!data/vacancies.csv
+**/__pycache__
+**/*.pyc
+.git
+.idea
+**/.DS_Store
+report
+Dockerfile
+compose.yaml
+README.md
+.dockerignore

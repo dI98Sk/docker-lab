@@ -1,0 +1,25 @@
+# Стек для локального запуска. Иногда api не стартует с первого раза — просто перезапустите.
+services:
+  api:
+    build: .
+    image: hh-api:dev
+    ports:
+      - "8000:80"
+    environment:
+      HOST: 0.0.0.0
+      REDIS_HOST: redis
+      REDIS_PASSWORD: s3cret-redis
+      DB_PATH: /app/var/hh.db
+    volumes:
+      - api-data:/app/var
+    depends_on:
+      - redis
+
+  redis:
+    image: redis:7-alpine
+    command: redis-server --requirepass s3cret-redis --appendonly yes
+    ports:
+      - "6379:6379"
+
+volumes:
+  api-data:

@@ -1,0 +1,801 @@
+id,title,city,skill,salary,experience
+1001,Программист 1С,Новосибирск,1c,159000,between3And6
+1002,Backend-разработчик (Java),Новосибирск,java,112000,noExperience
+1003,Python-разработчик,Удалённо,python,129000,between1And3
+1004,Data Engineer,Новосибирск,python,164000,between3And6
+1005,Backend-разработчик (Python),Екатеринбург,python,312000,moreThan6
+1006,BI-аналитик,Москва,sql,207000,between3And6
+1007,Экономист,Новосибирск,excel,93000,between1And3
+1008,Backend-разработчик (Python),Санкт-Петербург,python,158000,between1And3
+1009,Аналитик данных,Санкт-Петербург,sql,86000,noExperience
+1010,Fullstack-разработчик,Удалённо,javascript,144000,between1And3
+1011,Программист 1С,Санкт-Петербург,1c,78000,noExperience
+1012,Специалист по отчётности,Санкт-Петербург,excel,143000,moreThan6
+1013,Fullstack-разработчик,Новосибирск,javascript,255000,moreThan6
+1014,Data Engineer,Новосибирск,python,225000,moreThan6
+1015,Экономист,Екатеринбург,excel,44000,noExperience
+1016,Аналитик данных,Новосибирск,sql,63000,noExperience
+1017,Аналитик данных,Санкт-Петербург,sql,95000,noExperience
+1018,DevOps-инженер,Москва,docker,206000,between3And6
+1019,Python-разработчик,Екатеринбург,python,231000,between3And6
+1020,Frontend-разработчик,Екатеринбург,javascript,267000,between3And6
+1021,Go-разработчик,Москва,go,297000,moreThan6
+1022,Backend-разработчик (Python),Екатеринбург,python,162000,between3And6
+1023,Экономист,Екатеринбург,excel,103000,between3And6
+1024,Экономист,Екатеринбург,excel,90000,between3And6
+1025,SRE-инженер,Москва,docker,256000,moreThan6
+1026,Data Engineer,Санкт-Петербург,python,115000,noExperience
+1027,Go-разработчик,Москва,go,187000,between1And3
+1028,DevOps-инженер,Удалённо,docker,219000,between1And3
+1029,DevOps-инженер,Санкт-Петербург,docker,111000,noExperience
+1030,SRE-инженер,Екатеринбург,docker,106000,noExperience
+1031,Backend-разработчик (Java),Удалённо,java,220000,between1And3
+1032,Frontend-разработчик,Казань,javascript,100000,noExperience
+1033,Разработчик баз данных,Удалённо,sql,79000,noExperience
+1034,Программист 1С,Удалённо,1c,149000,between1And3
+1035,Разработчик баз данных,Новосибирск,sql,195000,moreThan6
+1036,Консультант 1С,Москва,1c,270000,moreThan6
+1037,Backend-разработчик (Java),Казань,java,343000,moreThan6
+1038,DevOps-инженер,Казань,docker,265000,between3And6
+1039,Frontend-разработчик,Удалённо,javascript,197000,between3And6
+1040,Backend-разработчик (Python),Удалённо,python,153000,between1And3
+1041,Frontend-разработчик,Москва,javascript,149000,between1And3
+1042,Fullstack-разработчик,Новосибирск,javascript,245000,between3And6
+1043,Консультант 1С,Новосибирск,1c,218000,between3And6
+1044,Программист 1С,Санкт-Петербург,1c,90000,noExperience
+1045,Backend-разработчик (Python),Санкт-Петербург,python,271000,between3And6
+1046,Консультант 1С,Удалённо,1c,132000,between1And3
+1047,Специалист по отчётности,Санкт-Петербург,excel,37000,noExperience
+1048,Разработчик баз данных,Санкт-Петербург,sql,139000,between3And6
+1049,Java-разработчик,Москва,java,227000,between1And3
+1050,Офис-менеджер,Москва,excel,127000,moreThan6
+1051,Разработчик баз данных,Новосибирск,sql,126000,between1And3
+1052,Инженер платформы,Москва,docker,409000,moreThan6
+1053,Офис-менеджер,Удалённо,excel,76000,between1And3
+1054,Программист 1С,Казань,1c,138000,between3And6
+1055,Backend-разработчик (Python),Новосибирск,python,198000,between1And3
+1056,Программист 1С,Екатеринбург,1c,105000,between1And3
+1057,Go-разработчик,Екатеринбург,go,134000,noExperience
+1058,Аналитик данных,Санкт-Петербург,sql,226000,moreThan6
+1059,Офис-менеджер,Казань,excel,58000,noExperience
+1060,Backend-разработчик (Python),Санкт-Петербург,python,118000,noExperience
+1061,Аналитик данных,Новосибирск,sql,199000,between3And6
+1062,Frontend-разработчик,Екатеринбург,javascript,203000,between3And6
+1063,Программист 1С,Екатеринбург,1c,110000,noExperience
+1064,Frontend-разработчик,Казань,javascript,114000,noExperience
+1065,Офис-менеджер,Казань,excel,146000,moreThan6
+1066,BI-аналитик,Екатеринбург,sql,145000,between3And6
+1067,Разработчик баз данных,Екатеринбург,sql,170000,moreThan6
+1068,Инженер платформы,Новосибирск,docker,102000,noExperience
+1069,Экономист,Москва,excel,59000,noExperience
+1070,Fullstack-разработчик,Казань,javascript,269000,between3And6
+1071,Аналитик данных,Новосибирск,sql,177000,moreThan6
+1072,Fullstack-разработчик,Санкт-Петербург,javascript,254000,moreThan6
+1073,DevOps-инженер,Удалённо,docker,231000,moreThan6
+1074,Аналитик данных,Москва,sql,163000,moreThan6
+1075,Аналитик данных,Санкт-Петербург,sql,145000,between3And6
+1076,Backend-разработчик (Java),Казань,java,388000,moreThan6
+1077,DevOps-инженер,Санкт-Петербург,docker,212000,between1And3
+1078,Fullstack-разработчик,Москва,javascript,112000,between1And3
+1079,Backend-разработчик (Java),Москва,java,255000,moreThan6
+1080,Инженер платформы,Екатеринбург,docker,94000,noExperience
+1081,Офис-менеджер,Москва,excel,52000,between1And3
+1082,Экономист,Новосибирск,excel,56000,noExperience
+1083,BI-аналитик,Екатеринбург,sql,179000,between3And6
+1084,BI-аналитик,Екатеринбург,sql,115000,between1And3
+1085,Экономист,Екатеринбург,excel,52000,noExperience
+1086,DevOps-инженер,Новосибирск,docker,118000,noExperience
+1087,Backend-разработчик (Java),Новосибирск,java,152000,noExperience
+1088,Аналитик данных,Москва,sql,140000,between1And3
+1089,Программист 1С,Новосибирск,1c,154000,between1And3
+1090,Аналитик данных,Екатеринбург,sql,70000,noExperience
+1091,Backend-разработчик (Python),Новосибирск,python,86000,noExperience
+1092,Backend-разработчик (Python),Екатеринбург,python,289000,between3And6
+1093,Data Engineer,Казань,python,351000,moreThan6
+1094,Java-разработчик,Новосибирск,java,328000,moreThan6
+1095,Разработчик баз данных,Казань,sql,95000,between1And3
+1096,Go-разработчик,Москва,go,159000,between1And3
+1097,Backend-разработчик (Python),Екатеринбург,python,198000,between1And3
+1098,Python-разработчик,Новосибирск,python,165000,between3And6
+1099,Программист 1С,Казань,1c,165000,between3And6
+1100,Программист 1С,Новосибирск,1c,191000,moreThan6
+1101,Frontend-разработчик,Москва,javascript,120000,between1And3
+1102,Программист 1С,Санкт-Петербург,1c,208000,moreThan6
+1103,Frontend-разработчик,Удалённо,javascript,202000,between3And6
+1104,Frontend-разработчик,Санкт-Петербург,javascript,134000,between1And3
+1105,Инженер платформы,Екатеринбург,docker,102000,noExperience
+1106,Backend-разработчик (Python),Казань,python,176000,between1And3
+1107,Python-разработчик,Екатеринбург,python,241000,moreThan6
+1108,Аналитик данных,Москва,sql,210000,moreThan6
+1109,Data Engineer,Екатеринбург,python,97000,noExperience
+1110,Python-разработчик,Новосибирск,python,214000,moreThan6
+1111,Программист 1С,Екатеринбург,1c,87000,noExperience
+1112,Программист 1С,Казань,1c,210000,between3And6
+1113,Backend-разработчик (Go),Новосибирск,go,185000,between1And3
+1114,Fullstack-разработчик,Казань,javascript,230000,between3And6
+1115,Программист 1С,Екатеринбург,1c,150000,between3And6
+1116,BI-аналитик,Новосибирск,sql,109000,between1And3
+1117,Backend-разработчик (Go),Санкт-Петербург,go,323000,moreThan6
+1118,Frontend-разработчик,Санкт-Петербург,javascript,347000,moreThan6
+1119,Аналитик данных,Санкт-Петербург,sql,132000,between1And3
+1120,Frontend-разработчик,Удалённо,javascript,112000,noExperience
+1121,Java-разработчик,Удалённо,java,292000,between3And6
+1122,Fullstack-разработчик,Екатеринбург,javascript,204000,between3And6
+1123,Специалист по отчётности,Москва,excel,129000,moreThan6
+1124,DevOps-инженер,Казань,docker,188000,between1And3
+1125,Специалист по отчётности,Казань,excel,82000,between1And3
+1126,Аналитик данных,Новосибирск,sql,191000,between3And6
+1127,Go-разработчик,Новосибирск,go,120000,noExperience
+1128,Офис-менеджер,Казань,excel,77000,between3And6
+1129,Экономист,Екатеринбург,excel,67000,between1And3
+1130,Программист 1С,Удалённо,1c,216000,moreThan6
+1131,Fullstack-разработчик,Екатеринбург,javascript,117000,noExperience
+1132,Java-разработчик,Санкт-Петербург,java,95000,noExperience
+1133,DevOps-инженер,Санкт-Петербург,docker,327000,moreThan6
+1134,Go-разработчик,Санкт-Петербург,go,111000,noExperience
+1135,Экономист,Санкт-Петербург,excel,139000,moreThan6
+1136,Разработчик баз данных,Екатеринбург,sql,287000,moreThan6
+1137,BI-аналитик,Новосибирск,sql,131000,between3And6
+1138,BI-аналитик,Москва,sql,266000,moreThan6
+1139,Python-разработчик,Удалённо,python,109000,noExperience
+1140,Data Engineer,Санкт-Петербург,python,82000,noExperience
+1141,Go-разработчик,Санкт-Петербург,go,167000,noExperience
+1142,Fullstack-разработчик,Екатеринбург,javascript,91000,noExperience
+1143,Backend-разработчик (Java),Казань,java,396000,moreThan6
+1144,Аналитик данных,Казань,sql,91000,noExperience
+1145,Экономист,Казань,excel,55000,noExperience
+1146,Frontend-разработчик,Казань,javascript,122000,between1And3
+1147,Python-разработчик,Удалённо,python,174000,between3And6
+1148,Backend-разработчик (Java),Москва,java,137000,noExperience
+1149,Go-разработчик,Казань,go,451000,moreThan6
+1150,Инженер платформы,Екатеринбург,docker,369000,moreThan6
+1151,Python-разработчик,Москва,python,207000,between1And3
+1152,Go-разработчик,Казань,go,102000,noExperience
+1153,Fullstack-разработчик,Москва,javascript,127000,between1And3
+1154,Backend-разработчик (Java),Удалённо,java,102000,noExperience
+1155,BI-аналитик,Новосибирск,sql,64000,noExperience
+1156,Frontend-разработчик,Екатеринбург,javascript,142000,between1And3
+1157,Экономист,Удалённо,excel,126000,moreThan6
+1158,Java-разработчик,Санкт-Петербург,java,324000,between3And6
+1159,Backend-разработчик (Python),Санкт-Петербург,python,248000,between3And6
+1160,Java-разработчик,Новосибирск,java,418000,moreThan6
+1161,Backend-разработчик (Go),Казань,go,109000,noExperience
+1162,Офис-менеджер,Новосибирск,excel,115000,moreThan6
+1163,Java-разработчик,Екатеринбург,java,311000,moreThan6
+1164,Офис-менеджер,Санкт-Петербург,excel,77000,between3And6
+1165,Консультант 1С,Санкт-Петербург,1c,192000,between3And6
+1166,Backend-разработчик (Java),Новосибирск,java,102000,noExperience
+1167,Аналитик данных,Москва,sql,61000,noExperience
+1168,Аналитик данных,Санкт-Петербург,sql,172000,between3And6
+1169,Frontend-разработчик,Екатеринбург,javascript,353000,moreThan6
+1170,Разработчик баз данных,Москва,sql,76000,noExperience
+1171,Backend-разработчик (Java),Санкт-Петербург,java,263000,between3And6
+1172,Python-разработчик,Казань,python,199000,between3And6
+1173,Frontend-разработчик,Удалённо,javascript,251000,between3And6
+1174,Офис-менеджер,Казань,excel,47000,noExperience
+1175,Frontend-разработчик,Екатеринбург,javascript,275000,between3And6
+1176,Frontend-разработчик,Москва,javascript,167000,between3And6
+1177,Go-разработчик,Екатеринбург,go,193000,between1And3
+1178,Backend-разработчик (Python),Санкт-Петербург,python,341000,moreThan6
+1179,Программист 1С,Удалённо,1c,77000,noExperience
+1180,Data Engineer,Екатеринбург,python,347000,moreThan6
+1181,Инженер платформы,Удалённо,docker,145000,between1And3
+1182,Консультант 1С,Санкт-Петербург,1c,83000,noExperience
+1183,Backend-разработчик (Java),Санкт-Петербург,java,106000,noExperience
+1184,Программист 1С,Казань,1c,103000,noExperience
+1185,SRE-инженер,Казань,docker,238000,moreThan6
+1186,Fullstack-разработчик,Санкт-Петербург,javascript,138000,between1And3
+1187,Java-разработчик,Санкт-Петербург,java,117000,noExperience
+1188,Инженер платформы,Удалённо,docker,257000,between3And6
+1189,Backend-разработчик (Java),Москва,java,124000,noExperience
+1190,Backend-разработчик (Python),Казань,python,164000,between1And3
+1191,Backend-разработчик (Java),Санкт-Петербург,java,144000,noExperience
+1192,Frontend-разработчик,Москва,javascript,327000,moreThan6
+1193,Backend-разработчик (Go),Москва,go,184000,between1And3
+1194,Разработчик баз данных,Казань,sql,95000,noExperience
+1195,Backend-разработчик (Java),Казань,java,184000,between1And3
+1196,Консультант 1С,Новосибирск,1c,124000,between1And3
+1197,Специалист по отчётности,Санкт-Петербург,excel,61000,noExperience
+1198,Офис-менеджер,Казань,excel,39000,noExperience
+1199,BI-аналитик,Москва,sql,154000,between3And6
+1200,Аналитик данных,Москва,sql,160000,between3And6
+1201,Консультант 1С,Екатеринбург,1c,83000,noExperience
+1202,Frontend-разработчик,Санкт-Петербург,javascript,167000,between3And6
+1203,Аналитик данных,Екатеринбург,sql,62000,noExperience
+1204,Java-разработчик,Казань,java,389000,moreThan6
+1205,BI-аналитик,Санкт-Петербург,sql,139000,between1And3
+1206,Экономист,Екатеринбург,excel,77000,between3And6
+1207,Backend-разработчик (Java),Удалённо,java,112000,noExperience
+1208,Программист 1С,Новосибирск,1c,189000,moreThan6
+1209,BI-аналитик,Новосибирск,sql,83000,noExperience
+1210,Инженер платформы,Санкт-Петербург,docker,272000,moreThan6
+1211,Data Engineer,Удалённо,python,188000,between3And6
+1212,Frontend-разработчик,Казань,javascript,97000,noExperience
+1213,Frontend-разработчик,Москва,javascript,221000,between3And6
+1214,Python-разработчик,Казань,python,125000,between1And3
+1215,Офис-менеджер,Удалённо,excel,93000,moreThan6
+1216,Экономист,Екатеринбург,excel,87000,between3And6
+1217,Python-разработчик,Екатеринбург,python,83000,noExperience
+1218,Data Engineer,Новосибирск,python,283000,moreThan6
+1219,Программист 1С,Новосибирск,1c,141000,between3And6
+1220,Программист 1С,Москва,1c,211000,moreThan6
+1221,Fullstack-разработчик,Санкт-Петербург,javascript,206000,moreThan6
+1222,Python-разработчик,Казань,python,139000,between1And3
+1223,Backend-разработчик (Java),Санкт-Петербург,java,393000,moreThan6
+1224,Backend-разработчик (Java),Санкт-Петербург,java,430000,moreThan6
+1225,Backend-разработчик (Java),Казань,java,287000,between3And6
+1226,Backend-разработчик (Java),Санкт-Петербург,java,410000,moreThan6
+1227,Fullstack-разработчик,Новосибирск,javascript,127000,between1And3
+1228,Python-разработчик,Москва,python,120000,between1And3
+1229,Go-разработчик,Москва,go,242000,between1And3
+1230,Data Engineer,Удалённо,python,138000,noExperience
+1231,Консультант 1С,Екатеринбург,1c,162000,between1And3
+1232,DevOps-инженер,Екатеринбург,docker,124000,noExperience
+1233,Backend-разработчик (Python),Санкт-Петербург,python,132000,between1And3
+1234,DevOps-инженер,Москва,docker,129000,noExperience
+1235,Fullstack-разработчик,Екатеринбург,javascript,113000,between1And3
+1236,Java-разработчик,Москва,java,291000,between3And6
+1237,Data Engineer,Казань,python,117000,between1And3
+1238,SRE-инженер,Екатеринбург,docker,244000,between3And6
+1239,Разработчик баз данных,Удалённо,sql,213000,between3And6
+1240,SRE-инженер,Екатеринбург,docker,171000,between1And3
+1241,Аналитик данных,Москва,sql,186000,moreThan6
+1242,Экономист,Казань,excel,105000,moreThan6
+1243,Инженер платформы,Екатеринбург,docker,319000,between3And6
+1244,Инженер платформы,Санкт-Петербург,docker,121000,noExperience
+1245,Программист 1С,Казань,1c,140000,between3And6
+1246,BI-аналитик,Казань,sql,170000,between3And6
+1247,Backend-разработчик (Java),Казань,java,223000,between1And3
+1248,Экономист,Новосибирск,excel,47000,noExperience
+1249,Data Engineer,Москва,python,94000,noExperience
+1250,Backend-разработчик (Java),Санкт-Петербург,java,137000,between1And3
+1251,Java-разработчик,Удалённо,java,279000,between3And6
+1252,BI-аналитик,Екатеринбург,sql,137000,between3And6
+1253,Java-разработчик,Казань,java,116000,noExperience
+1254,Data Engineer,Новосибирск,python,100000,noExperience
+1255,Data Engineer,Удалённо,python,195000,between1And3
+1256,Разработчик баз данных,Санкт-Петербург,sql,168000,between3And6
+1257,Python-разработчик,Москва,python,182000,between1And3
+1258,BI-аналитик,Москва,sql,66000,noExperience
+1259,Backend-разработчик (Go),Екатеринбург,go,428000,moreThan6
+1260,Data Engineer,Новосибирск,python,160000,between3And6
+1261,Разработчик баз данных,Москва,sql,143000,between3And6
+1262,Python-разработчик,Екатеринбург,python,121000,noExperience
+1263,Аналитик данных,Москва,sql,151000,between1And3
+1264,Специалист по отчётности,Санкт-Петербург,excel,42000,noExperience
+1265,Fullstack-разработчик,Казань,javascript,197000,between1And3
+1266,Офис-менеджер,Санкт-Петербург,excel,60000,noExperience
+1267,Программист 1С,Санкт-Петербург,1c,96000,noExperience
+1268,Экономист,Удалённо,excel,83000,between1And3
+1269,Fullstack-разработчик,Екатеринбург,javascript,173000,between1And3
+1270,Frontend-разработчик,Казань,javascript,141000,between1And3
+1271,BI-аналитик,Екатеринбург,sql,217000,between3And6
+1272,Java-разработчик,Новосибирск,java,246000,moreThan6
+1273,DevOps-инженер,Новосибирск,docker,150000,noExperience
+1274,Data Engineer,Казань,python,292000,moreThan6
+1275,Разработчик баз данных,Екатеринбург,sql,140000,between1And3
+1276,Backend-разработчик (Python),Удалённо,python,83000,noExperience
+1277,Java-разработчик,Казань,java,311000,moreThan6
+1278,Экономист,Санкт-Петербург,excel,166000,moreThan6
+1279,Fullstack-разработчик,Москва,javascript,218000,moreThan6
+1280,Консультант 1С,Москва,1c,73000,noExperience
+1281,Программист 1С,Екатеринбург,1c,129000,between1And3
+1282,Консультант 1С,Новосибирск,1c,102000,between1And3
+1283,Go-разработчик,Удалённо,go,201000,between1And3
+1284,Backend-разработчик (Python),Удалённо,python,85000,noExperience
+1285,Fullstack-разработчик,Казань,javascript,165000,between3And6
+1286,Backend-разработчик (Java),Москва,java,376000,moreThan6
+1287,Python-разработчик,Удалённо,python,193000,between1And3
+1288,Специалист по отчётности,Казань,excel,85000,between1And3
+1289,Frontend-разработчик,Удалённо,javascript,98000,noExperience
+1290,Backend-разработчик (Java),Москва,java,145000,noExperience
+1291,Консультант 1С,Екатеринбург,1c,111000,noExperience
+1292,Экономист,Казань,excel,113000,between3And6
+1293,Консультант 1С,Казань,1c,132000,between1And3
+1294,Backend-разработчик (Python),Екатеринбург,python,103000,noExperience
+1295,Frontend-разработчик,Новосибирск,javascript,211000,moreThan6
+1296,Backend-разработчик (Java),Новосибирск,java,293000,between3And6
+1297,Backend-разработчик (Java),Москва,java,265000,moreThan6
+1298,Data Engineer,Екатеринбург,python,87000,noExperience
+1299,Backend-разработчик (Java),Новосибирск,java,157000,noExperience
+1300,Специалист по отчётности,Москва,excel,68000,between1And3
+1301,Data Engineer,Екатеринбург,python,286000,moreThan6
+1302,Data Engineer,Удалённо,python,270000,moreThan6
+1303,Экономист,Удалённо,excel,124000,between3And6
+1304,Fullstack-разработчик,Москва,javascript,275000,moreThan6
+1305,Backend-разработчик (Java),Москва,java,384000,moreThan6
+1306,Разработчик баз данных,Екатеринбург,sql,289000,moreThan6
+1307,Go-разработчик,Удалённо,go,355000,between3And6
+1308,Консультант 1С,Москва,1c,257000,moreThan6
+1309,Frontend-разработчик,Екатеринбург,javascript,113000,between1And3
+1310,Fullstack-разработчик,Москва,javascript,110000,noExperience
+1311,Backend-разработчик (Python),Москва,python,368000,moreThan6
+1312,Python-разработчик,Удалённо,python,114000,noExperience
+1313,BI-аналитик,Екатеринбург,sql,205000,between3And6
+1314,Java-разработчик,Екатеринбург,java,356000,moreThan6
+1315,Специалист по отчётности,Москва,excel,56000,noExperience
+1316,Разработчик баз данных,Екатеринбург,sql,127000,between1And3
+1317,Разработчик баз данных,Санкт-Петербург,sql,142000,between1And3
+1318,Java-разработчик,Удалённо,java,219000,between1And3
+1319,Программист 1С,Новосибирск,1c,265000,moreThan6
+1320,Fullstack-разработчик,Новосибирск,javascript,132000,noExperience
+1321,Backend-разработчик (Python),Новосибирск,python,93000,noExperience
+1322,BI-аналитик,Екатеринбург,sql,215000,moreThan6
+1323,Backend-разработчик (Go),Москва,go,416000,moreThan6
+1324,Frontend-разработчик,Екатеринбург,javascript,128000,noExperience
+1325,Специалист по отчётности,Москва,excel,83000,between1And3
+1326,Backend-разработчик (Java),Удалённо,java,117000,noExperience
+1327,Frontend-разработчик,Казань,javascript,167000,between3And6
+1328,BI-аналитик,Новосибирск,sql,70000,noExperience
+1329,Консультант 1С,Санкт-Петербург,1c,207000,between3And6
+1330,Программист 1С,Удалённо,1c,186000,between3And6
+1331,Специалист по отчётности,Удалённо,excel,76000,between1And3
+1332,Frontend-разработчик,Новосибирск,javascript,130000,noExperience
+1333,Backend-разработчик (Go),Новосибирск,go,168000,noExperience
+1334,Офис-менеджер,Санкт-Петербург,excel,109000,moreThan6
+1335,Специалист по отчётности,Москва,excel,114000,between3And6
+1336,Backend-разработчик (Go),Новосибирск,go,159000,between1And3
+1337,Программист 1С,Казань,1c,294000,moreThan6
+1338,Backend-разработчик (Java),Удалённо,java,252000,between3And6
+1339,Инженер платформы,Удалённо,docker,315000,between3And6
+1340,BI-аналитик,Казань,sql,153000,between1And3
+1341,Python-разработчик,Санкт-Петербург,python,233000,between3And6
+1342,Backend-разработчик (Java),Новосибирск,java,301000,between3And6
+1343,Data Engineer,Москва,python,104000,noExperience
+1344,Аналитик данных,Москва,sql,100000,noExperience
+1345,Программист 1С,Санкт-Петербург,1c,187000,between3And6
+1346,Специалист по отчётности,Санкт-Петербург,excel,54000,between1And3
+1347,Data Engineer,Удалённо,python,272000,moreThan6
+1348,Специалист по отчётности,Новосибирск,excel,87000,between3And6
+1349,Fullstack-разработчик,Екатеринбург,javascript,211000,between3And6
+1350,DevOps-инженер,Санкт-Петербург,docker,352000,moreThan6
+1351,Консультант 1С,Новосибирск,1c,194000,moreThan6
+1352,Backend-разработчик (Python),Новосибирск,python,278000,moreThan6
+1353,Frontend-разработчик,Санкт-Петербург,javascript,234000,moreThan6
+1354,Fullstack-разработчик,Удалённо,javascript,201000,between3And6
+1355,Консультант 1С,Екатеринбург,1c,90000,noExperience
+1356,Офис-менеджер,Екатеринбург,excel,99000,moreThan6
+1357,Специалист по отчётности,Казань,excel,73000,between1And3
+1358,Консультант 1С,Екатеринбург,1c,297000,moreThan6
+1359,Fullstack-разработчик,Казань,javascript,296000,moreThan6
+1360,Консультант 1С,Новосибирск,1c,239000,between3And6
+1361,Python-разработчик,Новосибирск,python,83000,noExperience
+1362,Java-разработчик,Екатеринбург,java,139000,between1And3
+1363,Разработчик баз данных,Москва,sql,150000,between1And3
+1364,Разработчик баз данных,Екатеринбург,sql,79000,noExperience
+1365,Программист 1С,Новосибирск,1c,223000,between3And6
+1366,Экономист,Санкт-Петербург,excel,110000,moreThan6
+1367,BI-аналитик,Екатеринбург,sql,171000,between3And6
+1368,DevOps-инженер,Санкт-Петербург,docker,144000,between1And3
+1369,DevOps-инженер,Екатеринбург,docker,193000,between1And3
+1370,Fullstack-разработчик,Удалённо,javascript,199000,moreThan6
+1371,Fullstack-разработчик,Новосибирск,javascript,124000,noExperience
+1372,Аналитик данных,Новосибирск,sql,95000,noExperience
+1373,Fullstack-разработчик,Новосибирск,javascript,166000,between1And3
+1374,Data Engineer,Казань,python,164000,between3And6
+1375,Backend-разработчик (Python),Екатеринбург,python,140000,noExperience
+1376,Офис-менеджер,Москва,excel,105000,moreThan6
+1377,Консультант 1С,Москва,1c,153000,between3And6
+1378,SRE-инженер,Удалённо,docker,106000,noExperience
+1379,DevOps-инженер,Москва,docker,176000,between3And6
+1380,Экономист,Екатеринбург,excel,71000,between1And3
+1381,SRE-инженер,Казань,docker,115000,noExperience
+1382,Backend-разработчик (Python),Екатеринбург,python,187000,between1And3
+1383,DevOps-инженер,Новосибирск,docker,266000,moreThan6
+1384,Backend-разработчик (Python),Санкт-Петербург,python,109000,noExperience
+1385,Python-разработчик,Новосибирск,python,175000,between3And6
+1386,Специалист по отчётности,Екатеринбург,excel,128000,moreThan6
+1387,Backend-разработчик (Java),Казань,java,103000,noExperience
+1388,Java-разработчик,Казань,java,192000,between3And6
+1389,Java-разработчик,Москва,java,156000,noExperience
+1390,Программист 1С,Казань,1c,220000,between3And6
+1391,DevOps-инженер,Санкт-Петербург,docker,214000,between1And3
+1392,Разработчик баз данных,Екатеринбург,sql,119000,between1And3
+1393,Fullstack-разработчик,Казань,javascript,91000,noExperience
+1394,Fullstack-разработчик,Казань,javascript,339000,moreThan6
+1395,Специалист по отчётности,Казань,excel,61000,between1And3
+1396,BI-аналитик,Новосибирск,sql,224000,moreThan6
+1397,Frontend-разработчик,Новосибирск,javascript,232000,between3And6
+1398,SRE-инженер,Москва,docker,177000,between1And3
+1399,Инженер платформы,Екатеринбург,docker,335000,moreThan6
+1400,Frontend-разработчик,Москва,javascript,193000,moreThan6
+1401,Программист 1С,Новосибирск,1c,143000,between1And3
+1402,Программист 1С,Новосибирск,1c,194000,between3And6
+1403,Frontend-разработчик,Москва,javascript,184000,between3And6
+1404,BI-аналитик,Екатеринбург,sql,158000,between1And3
+1405,Frontend-разработчик,Новосибирск,javascript,288000,moreThan6
+1406,Аналитик данных,Москва,sql,170000,moreThan6
+1407,Go-разработчик,Казань,go,143000,noExperience
+1408,Go-разработчик,Удалённо,go,122000,noExperience
+1409,Backend-разработчик (Python),Новосибирск,python,116000,between1And3
+1410,Backend-разработчик (Java),Екатеринбург,java,317000,between3And6
+1411,Специалист по отчётности,Удалённо,excel,120000,between3And6
+1412,Backend-разработчик (Python),Санкт-Петербург,python,129000,noExperience
+1413,Java-разработчик,Новосибирск,java,92000,noExperience
+1414,Backend-разработчик (Go),Санкт-Петербург,go,345000,moreThan6
+1415,Backend-разработчик (Python),Казань,python,95000,noExperience
+1416,Fullstack-разработчик,Москва,javascript,100000,noExperience
+1417,Консультант 1С,Москва,1c,145000,between1And3
+1418,Экономист,Екатеринбург,excel,82000,between3And6
+1419,Go-разработчик,Санкт-Петербург,go,155000,noExperience
+1420,Python-разработчик,Москва,python,366000,moreThan6
+1421,Backend-разработчик (Java),Казань,java,127000,noExperience
+1422,Аналитик данных,Казань,sql,79000,noExperience
+1423,Python-разработчик,Москва,python,332000,moreThan6
+1424,Инженер платформы,Удалённо,docker,187000,between3And6
+1425,Python-разработчик,Казань,python,248000,moreThan6
+1426,BI-аналитик,Новосибирск,sql,95000,noExperience
+1427,Консультант 1С,Новосибирск,1c,65000,noExperience
+1428,Backend-разработчик (Java),Санкт-Петербург,java,411000,moreThan6
+1429,BI-аналитик,Екатеринбург,sql,186000,between3And6
+1430,Frontend-разработчик,Екатеринбург,javascript,112000,noExperience
+1431,Frontend-разработчик,Казань,javascript,270000,between3And6
+1432,Backend-разработчик (Go),Екатеринбург,go,101000,noExperience
+1433,Backend-разработчик (Python),Удалённо,python,277000,between3And6
+1434,Data Engineer,Москва,python,145000,between1And3
+1435,Инженер платформы,Удалённо,docker,136000,between1And3
+1436,Специалист по отчётности,Екатеринбург,excel,61000,noExperience
+1437,Специалист по отчётности,Новосибирск,excel,94000,moreThan6
+1438,Frontend-разработчик,Новосибирск,javascript,208000,between3And6
+1439,Программист 1С,Санкт-Петербург,1c,165000,between1And3
+1440,Консультант 1С,Москва,1c,86000,noExperience
+1441,Fullstack-разработчик,Удалённо,javascript,109000,between1And3
+1442,Разработчик баз данных,Санкт-Петербург,sql,118000,between1And3
+1443,Java-разработчик,Екатеринбург,java,163000,noExperience
+1444,Frontend-разработчик,Удалённо,javascript,132000,noExperience
+1445,Разработчик баз данных,Казань,sql,192000,between3And6
+1446,Go-разработчик,Удалённо,go,365000,moreThan6
+1447,Специалист по отчётности,Екатеринбург,excel,166000,moreThan6
+1448,Специалист по отчётности,Казань,excel,125000,moreThan6
+1449,Frontend-разработчик,Удалённо,javascript,190000,between3And6
+1450,Backend-разработчик (Python),Удалённо,python,187000,between1And3
+1451,Аналитик данных,Москва,sql,192000,between3And6
+1452,Fullstack-разработчик,Казань,javascript,168000,between3And6
+1453,Data Engineer,Казань,python,201000,between3And6
+1454,Консультант 1С,Москва,1c,139000,between1And3
+1455,Backend-разработчик (Java),Санкт-Петербург,java,197000,between3And6
+1456,Консультант 1С,Екатеринбург,1c,163000,between3And6
+1457,Аналитик данных,Удалённо,sql,68000,noExperience
+1458,Fullstack-разработчик,Москва,javascript,220000,between3And6
+1459,BI-аналитик,Екатеринбург,sql,110000,between1And3
+1460,Консультант 1С,Удалённо,1c,185000,moreThan6
+1461,Backend-разработчик (Go),Удалённо,go,164000,noExperience
+1462,Офис-менеджер,Новосибирск,excel,83000,between1And3
+1463,Backend-разработчик (Python),Санкт-Петербург,python,158000,between1And3
+1464,Разработчик баз данных,Удалённо,sql,165000,moreThan6
+1465,Backend-разработчик (Go),Екатеринбург,go,299000,moreThan6
+1466,Backend-разработчик (Python),Екатеринбург,python,105000,noExperience
+1467,BI-аналитик,Санкт-Петербург,sql,99000,noExperience
+1468,Разработчик баз данных,Удалённо,sql,197000,moreThan6
+1469,Разработчик баз данных,Удалённо,sql,193000,between3And6
+1470,BI-аналитик,Удалённо,sql,203000,between3And6
+1471,Программист 1С,Санкт-Петербург,1c,108000,noExperience
+1472,Backend-разработчик (Python),Москва,python,208000,moreThan6
+1473,Специалист по отчётности,Новосибирск,excel,83000,between3And6
+1474,Программист 1С,Удалённо,1c,259000,moreThan6
+1475,Консультант 1С,Санкт-Петербург,1c,109000,noExperience
+1476,Backend-разработчик (Python),Москва,python,326000,moreThan6
+1477,Backend-разработчик (Go),Казань,go,141000,noExperience
+1478,SRE-инженер,Новосибирск,docker,208000,between3And6
+1479,Backend-разработчик (Python),Екатеринбург,python,223000,moreThan6
+1480,Backend-разработчик (Go),Казань,go,245000,between1And3
+1481,Java-разработчик,Москва,java,313000,between3And6
+1482,Fullstack-разработчик,Удалённо,javascript,233000,moreThan6
+1483,Java-разработчик,Екатеринбург,java,251000,moreThan6
+1484,Fullstack-разработчик,Санкт-Петербург,javascript,260000,moreThan6
+1485,Разработчик баз данных,Казань,sql,157000,moreThan6
+1486,Fullstack-разработчик,Москва,javascript,276000,moreThan6
+1487,DevOps-инженер,Новосибирск,docker,190000,between3And6
+1488,Офис-менеджер,Удалённо,excel,135000,moreThan6
+1489,Backend-разработчик (Python),Удалённо,python,269000,moreThan6
+1490,SRE-инженер,Санкт-Петербург,docker,357000,moreThan6
+1491,Разработчик баз данных,Новосибирск,sql,91000,noExperience
+1492,DevOps-инженер,Казань,docker,220000,between1And3
+1493,Java-разработчик,Казань,java,275000,moreThan6
+1494,Офис-менеджер,Санкт-Петербург,excel,110000,between3And6
+1495,Frontend-разработчик,Санкт-Петербург,javascript,89000,noExperience
+1496,Backend-разработчик (Java),Москва,java,211000,between1And3
+1497,Программист 1С,Новосибирск,1c,80000,noExperience
+1498,Специалист по отчётности,Казань,excel,55000,between1And3
+1499,Инженер платформы,Санкт-Петербург,docker,140000,between1And3
+1500,Экономист,Екатеринбург,excel,55000,noExperience
+1501,Data Engineer,Новосибирск,python,188000,between3And6
+1502,Backend-разработчик (Python),Новосибирск,python,142000,between1And3
+1503,Аналитик данных,Москва,sql,78000,noExperience
+1504,Консультант 1С,Удалённо,1c,221000,moreThan6
+1505,Backend-разработчик (Go),Москва,go,320000,between3And6
+1506,Data Engineer,Москва,python,371000,moreThan6
+1507,Fullstack-разработчик,Санкт-Петербург,javascript,110000,between1And3
+1508,Go-разработчик,Санкт-Петербург,go,117000,noExperience
+1509,DevOps-инженер,Москва,docker,133000,noExperience
+1510,Frontend-разработчик,Удалённо,javascript,223000,between3And6
+1511,Backend-разработчик (Python),Казань,python,104000,noExperience
+1512,Аналитик данных,Санкт-Петербург,sql,91000,between1And3
+1513,Программист 1С,Санкт-Петербург,1c,133000,between1And3
+1514,BI-аналитик,Санкт-Петербург,sql,82000,noExperience
+1515,Backend-разработчик (Java),Москва,java,182000,between1And3
+1516,Экономист,Екатеринбург,excel,60000,noExperience
+1517,Разработчик баз данных,Новосибирск,sql,210000,between3And6
+1518,Backend-разработчик (Java),Екатеринбург,java,198000,between3And6
+1519,Офис-менеджер,Санкт-Петербург,excel,57000,between1And3
+1520,Консультант 1С,Екатеринбург,1c,298000,moreThan6
+1521,Backend-разработчик (Python),Удалённо,python,135000,noExperience
+1522,Fullstack-разработчик,Удалённо,javascript,184000,between1And3
+1523,SRE-инженер,Удалённо,docker,188000,between1And3
+1524,Backend-разработчик (Python),Москва,python,77000,noExperience
+1525,Специалист по отчётности,Удалённо,excel,103000,between3And6
+1526,Backend-разработчик (Go),Удалённо,go,168000,noExperience
+1527,Специалист по отчётности,Казань,excel,45000,noExperience
+1528,Fullstack-разработчик,Казань,javascript,127000,noExperience
+1529,Экономист,Санкт-Петербург,excel,122000,moreThan6
+1530,Backend-разработчик (Java),Казань,java,91000,noExperience
+1531,Специалист по отчётности,Екатеринбург,excel,117000,between3And6
+1532,Аналитик данных,Москва,sql,102000,between1And3
+1533,Python-разработчик,Санкт-Петербург,python,253000,moreThan6
+1534,Экономист,Казань,excel,51000,between1And3
+1535,Backend-разработчик (Python),Санкт-Петербург,python,302000,moreThan6
+1536,Специалист по отчётности,Удалённо,excel,161000,moreThan6
+1537,Программист 1С,Москва,1c,133000,between1And3
+1538,Консультант 1С,Удалённо,1c,206000,between3And6
+1539,BI-аналитик,Москва,sql,235000,moreThan6
+1540,Консультант 1С,Москва,1c,217000,between3And6
+1541,Go-разработчик,Новосибирск,go,380000,moreThan6
+1542,Backend-разработчик (Java),Москва,java,212000,between1And3
+1543,Консультант 1С,Удалённо,1c,92000,noExperience
+1544,Backend-разработчик (Java),Казань,java,226000,between1And3
+1545,Консультант 1С,Новосибирск,1c,85000,noExperience
+1546,Консультант 1С,Санкт-Петербург,1c,84000,noExperience
+1547,Инженер платформы,Новосибирск,docker,177000,between1And3
+1548,Консультант 1С,Санкт-Петербург,1c,280000,moreThan6
+1549,Java-разработчик,Удалённо,java,153000,noExperience
+1550,Консультант 1С,Москва,1c,134000,between1And3
+1551,Разработчик баз данных,Казань,sql,188000,moreThan6
+1552,Frontend-разработчик,Екатеринбург,javascript,218000,between3And6
+1553,Frontend-разработчик,Казань,javascript,202000,moreThan6
+1554,Data Engineer,Екатеринбург,python,248000,moreThan6
+1555,Специалист по отчётности,Москва,excel,95000,between3And6
+1556,Инженер платформы,Екатеринбург,docker,252000,between3And6
+1557,DevOps-инженер,Удалённо,docker,369000,moreThan6
+1558,Специалист по отчётности,Москва,excel,104000,between3And6
+1559,Backend-разработчик (Java),Москва,java,334000,between3And6
+1560,Java-разработчик,Екатеринбург,java,207000,between3And6
+1561,Backend-разработчик (Java),Санкт-Петербург,java,342000,moreThan6
+1562,Консультант 1С,Новосибирск,1c,296000,moreThan6
+1563,Программист 1С,Новосибирск,1c,227000,moreThan6
+1564,Java-разработчик,Удалённо,java,246000,between3And6
+1565,Офис-менеджер,Санкт-Петербург,excel,58000,noExperience
+1566,Backend-разработчик (Go),Санкт-Петербург,go,255000,between3And6
+1567,Backend-разработчик (Go),Новосибирск,go,360000,between3And6
+1568,Java-разработчик,Москва,java,417000,moreThan6
+1569,Офис-менеджер,Казань,excel,132000,moreThan6
+1570,Офис-менеджер,Удалённо,excel,107000,moreThan6
+1571,BI-аналитик,Москва,sql,133000,between1And3
+1572,Go-разработчик,Екатеринбург,go,268000,moreThan6
+1573,BI-аналитик,Санкт-Петербург,sql,94000,between1And3
+1574,Data Engineer,Удалённо,python,359000,moreThan6
+1575,Frontend-разработчик,Санкт-Петербург,javascript,205000,moreThan6
+1576,Backend-разработчик (Java),Новосибирск,java,115000,noExperience
+1577,Специалист по отчётности,Удалённо,excel,38000,noExperience
+1578,Специалист по отчётности,Казань,excel,40000,noExperience
+1579,Frontend-разработчик,Новосибирск,javascript,100000,noExperience
+1580,Специалист по отчётности,Новосибирск,excel,155000,moreThan6
+1581,Java-разработчик,Москва,java,126000,noExperience
+1582,SRE-инженер,Москва,docker,152000,between1And3
+1583,SRE-инженер,Казань,docker,254000,moreThan6
+1584,Backend-разработчик (Python),Удалённо,python,148000,between1And3
+1585,Backend-разработчик (Python),Казань,python,163000,between1And3
+1586,Офис-менеджер,Москва,excel,57000,noExperience
+1587,Java-разработчик,Новосибирск,java,341000,between3And6
+1588,Консультант 1С,Екатеринбург,1c,250000,moreThan6
+1589,Разработчик баз данных,Удалённо,sql,220000,between3And6
+1590,DevOps-инженер,Казань,docker,107000,noExperience
+1591,Экономист,Санкт-Петербург,excel,114000,between3And6
+1592,Go-разработчик,Екатеринбург,go,201000,between3And6
+1593,Java-разработчик,Санкт-Петербург,java,145000,noExperience
+1594,Java-разработчик,Москва,java,145000,noExperience
+1595,Backend-разработчик (Python),Новосибирск,python,283000,between3And6
+1596,Data Engineer,Казань,python,170000,between3And6
+1597,Разработчик баз данных,Казань,sql,179000,between3And6
+1598,Java-разработчик,Москва,java,97000,noExperience
+1599,Офис-менеджер,Новосибирск,excel,115000,between3And6
+1600,Java-разработчик,Казань,java,197000,between1And3
+1601,Специалист по отчётности,Казань,excel,87000,between3And6
+1602,Инженер платформы,Новосибирск,docker,152000,between1And3
+1603,Программист 1С,Удалённо,1c,139000,between1And3
+1604,Backend-разработчик (Python),Санкт-Петербург,python,183000,between1And3
+1605,Аналитик данных,Екатеринбург,sql,108000,between1And3
+1606,Backend-разработчик (Python),Казань,python,245000,moreThan6
+1607,Консультант 1С,Удалённо,1c,160000,between3And6
+1608,Разработчик баз данных,Екатеринбург,sql,164000,between1And3
+1609,Java-разработчик,Екатеринбург,java,352000,moreThan6
+1610,SRE-инженер,Казань,docker,234000,between3And6
+1611,Backend-разработчик (Java),Екатеринбург,java,100000,noExperience
+1612,Backend-разработчик (Java),Екатеринбург,java,124000,noExperience
+1613,Backend-разработчик (Java),Екатеринбург,java,192000,between1And3
+1614,BI-аналитик,Казань,sql,155000,between1And3
+1615,Специалист по отчётности,Удалённо,excel,61000,noExperience
+1616,Fullstack-разработчик,Москва,javascript,268000,between3And6
+1617,Разработчик баз данных,Екатеринбург,sql,169000,between3And6
+1618,Java-разработчик,Санкт-Петербург,java,318000,between3And6
+1619,Go-разработчик,Новосибирск,go,239000,between1And3
+1620,Программист 1С,Новосибирск,1c,127000,between1And3
+1621,Fullstack-разработчик,Санкт-Петербург,javascript,159000,between1And3
+1622,Программист 1С,Екатеринбург,1c,232000,between3And6
+1623,Python-разработчик,Удалённо,python,212000,between3And6
+1624,Fullstack-разработчик,Новосибирск,javascript,134000,between1And3
+1625,Frontend-разработчик,Санкт-Петербург,javascript,140000,between1And3
+1626,Java-разработчик,Удалённо,java,388000,moreThan6
+1627,Специалист по отчётности,Санкт-Петербург,excel,148000,moreThan6
+1628,Backend-разработчик (Python),Москва,python,129000,noExperience
+1629,Java-разработчик,Казань,java,204000,between1And3
+1630,Консультант 1С,Удалённо,1c,211000,between3And6
+1631,Backend-разработчик (Go),Новосибирск,go,132000,noExperience
+1632,Backend-разработчик (Go),Москва,go,148000,between1And3
+1633,Backend-разработчик (Go),Екатеринбург,go,104000,noExperience
+1634,Специалист по отчётности,Санкт-Петербург,excel,77000,between1And3
+1635,Экономист,Санкт-Петербург,excel,97000,between3And6
+1636,Экономист,Москва,excel,77000,between1And3
+1637,Программист 1С,Екатеринбург,1c,70000,noExperience
+1638,Backend-разработчик (Python),Екатеринбург,python,158000,between3And6
+1639,Python-разработчик,Москва,python,140000,between1And3
+1640,Data Engineer,Москва,python,105000,noExperience
+1641,Python-разработчик,Санкт-Петербург,python,137000,noExperience
+1642,Backend-разработчик (Python),Казань,python,97000,noExperience
+1643,DevOps-инженер,Новосибирск,docker,249000,between3And6
+1644,DevOps-инженер,Москва,docker,147000,noExperience
+1645,Fullstack-разработчик,Новосибирск,javascript,88000,noExperience
+1646,Разработчик баз данных,Удалённо,sql,109000,noExperience
+1647,BI-аналитик,Санкт-Петербург,sql,225000,moreThan6
+1648,Frontend-разработчик,Казань,javascript,111000,between1And3
+1649,BI-аналитик,Казань,sql,60000,noExperience
+1650,SRE-инженер,Казань,docker,298000,between3And6
+1651,Frontend-разработчик,Новосибирск,javascript,272000,between3And6
+1652,Python-разработчик,Казань,python,189000,between3And6
+1653,Аналитик данных,Санкт-Петербург,sql,202000,between3And6
+1654,Специалист по отчётности,Москва,excel,117000,between3And6
+1655,Инженер платформы,Москва,docker,402000,moreThan6
+1656,Java-разработчик,Санкт-Петербург,java,198000,between1And3
+1657,Разработчик баз данных,Санкт-Петербург,sql,176000,between3And6
+1658,Консультант 1С,Казань,1c,211000,between3And6
+1659,Разработчик баз данных,Москва,sql,187000,between3And6
+1660,Fullstack-разработчик,Удалённо,javascript,210000,moreThan6
+1661,Python-разработчик,Казань,python,123000,between1And3
+1662,Разработчик баз данных,Екатеринбург,sql,264000,moreThan6
+1663,Backend-разработчик (Java),Москва,java,214000,between1And3
+1664,Офис-менеджер,Екатеринбург,excel,120000,moreThan6
+1665,Java-разработчик,Санкт-Петербург,java,196000,between1And3
+1666,Java-разработчик,Санкт-Петербург,java,293000,moreThan6
+1667,Экономист,Казань,excel,109000,moreThan6
+1668,Специалист по отчётности,Новосибирск,excel,138000,moreThan6
+1669,Инженер платформы,Санкт-Петербург,docker,216000,between1And3
+1670,Офис-менеджер,Екатеринбург,excel,103000,between3And6
+1671,Программист 1С,Екатеринбург,1c,68000,noExperience
+1672,Программист 1С,Удалённо,1c,240000,moreThan6
+1673,Консультант 1С,Удалённо,1c,230000,moreThan6
+1674,Data Engineer,Санкт-Петербург,python,83000,noExperience
+1675,Python-разработчик,Москва,python,84000,noExperience
+1676,Java-разработчик,Казань,java,156000,between1And3
+1677,Java-разработчик,Екатеринбург,java,329000,moreThan6
+1678,Аналитик данных,Удалённо,sql,101000,between1And3
+1679,Разработчик баз данных,Москва,sql,227000,moreThan6
+1680,Java-разработчик,Санкт-Петербург,java,115000,noExperience
+1681,Java-разработчик,Москва,java,397000,moreThan6
+1682,Экономист,Москва,excel,78000,between3And6
+1683,Backend-разработчик (Python),Санкт-Петербург,python,227000,moreThan6
+1684,Java-разработчик,Екатеринбург,java,144000,noExperience
+1685,Аналитик данных,Новосибирск,sql,125000,between3And6
+1686,Backend-разработчик (Go),Екатеринбург,go,264000,between1And3
+1687,Backend-разработчик (Java),Москва,java,144000,between1And3
+1688,Data Engineer,Казань,python,238000,moreThan6
+1689,Backend-разработчик (Python),Санкт-Петербург,python,156000,between1And3
+1690,SRE-инженер,Казань,docker,113000,noExperience
+1691,Экономист,Москва,excel,105000,moreThan6
+1692,Специалист по отчётности,Новосибирск,excel,84000,between1And3
+1693,Python-разработчик,Екатеринбург,python,238000,between3And6
+1694,Backend-разработчик (Python),Новосибирск,python,140000,noExperience
+1695,Backend-разработчик (Go),Удалённо,go,267000,between1And3
+1696,Go-разработчик,Санкт-Петербург,go,283000,between3And6
+1697,Python-разработчик,Новосибирск,python,112000,noExperience
+1698,Специалист по отчётности,Санкт-Петербург,excel,54000,noExperience
+1699,BI-аналитик,Санкт-Петербург,sql,156000,between3And6
+1700,Frontend-разработчик,Санкт-Петербург,javascript,174000,between3And6
+1701,Fullstack-разработчик,Екатеринбург,javascript,213000,moreThan6
+1702,Java-разработчик,Казань,java,190000,between1And3
+1703,Офис-менеджер,Новосибирск,excel,103000,moreThan6
+1704,DevOps-инженер,Казань,docker,152000,noExperience
+1705,BI-аналитик,Казань,sql,148000,between1And3
+1706,Backend-разработчик (Java),Казань,java,302000,between3And6
+1707,Специалист по отчётности,Москва,excel,153000,moreThan6
+1708,Fullstack-разработчик,Москва,javascript,259000,moreThan6
+1709,Go-разработчик,Казань,go,127000,noExperience
+1710,Python-разработчик,Екатеринбург,python,168000,between1And3
+1711,Backend-разработчик (Python),Санкт-Петербург,python,172000,between1And3
+1712,BI-аналитик,Москва,sql,151000,between3And6
+1713,Python-разработчик,Москва,python,108000,noExperience
+1714,Разработчик баз данных,Екатеринбург,sql,143000,between1And3
+1715,DevOps-инженер,Екатеринбург,docker,294000,moreThan6
+1716,BI-аналитик,Новосибирск,sql,160000,moreThan6
+1717,Data Engineer,Новосибирск,python,346000,moreThan6
+1718,Backend-разработчик (Java),Санкт-Петербург,java,149000,between1And3
+1719,Программист 1С,Санкт-Петербург,1c,216000,moreThan6
+1720,DevOps-инженер,Екатеринбург,docker,102000,noExperience
+1721,Backend-разработчик (Go),Санкт-Петербург,go,295000,between3And6
+1722,Python-разработчик,Москва,python,204000,moreThan6
+1723,Fullstack-разработчик,Екатеринбург,javascript,254000,between3And6
+1724,Программист 1С,Екатеринбург,1c,116000,noExperience
+1725,Backend-разработчик (Java),Санкт-Петербург,java,130000,noExperience
+1726,SRE-инженер,Санкт-Петербург,docker,265000,moreThan6
+1727,Java-разработчик,Санкт-Петербург,java,172000,between1And3
+1728,Fullstack-разработчик,Москва,javascript,193000,between1And3
+1729,Консультант 1С,Санкт-Петербург,1c,151000,between1And3
+1730,Backend-разработчик (Go),Москва,go,260000,between1And3
+1731,Backend-разработчик (Java),Санкт-Петербург,java,146000,noExperience
+1732,Аналитик данных,Казань,sql,190000,between3And6
+1733,Backend-разработчик (Go),Казань,go,432000,moreThan6
+1734,Data Engineer,Санкт-Петербург,python,238000,between3And6
+1735,Data Engineer,Новосибирск,python,102000,noExperience
+1736,Разработчик баз данных,Казань,sql,97000,noExperience
+1737,Backend-разработчик (Python),Москва,python,251000,moreThan6
+1738,Разработчик баз данных,Москва,sql,279000,moreThan6
+1739,Backend-разработчик (Java),Москва,java,231000,between1And3
+1740,Консультант 1С,Москва,1c,116000,between1And3
+1741,Backend-разработчик (Python),Новосибирск,python,340000,moreThan6
+1742,DevOps-инженер,Казань,docker,273000,between3And6
+1743,Data Engineer,Казань,python,164000,between1And3
+1744,Backend-разработчик (Java),Екатеринбург,java,384000,moreThan6
+1745,Консультант 1С,Казань,1c,222000,moreThan6
+1746,Консультант 1С,Казань,1c,165000,between1And3
+1747,Специалист по отчётности,Удалённо,excel,76000,between3And6
+1748,SRE-инженер,Удалённо,docker,190000,between3And6
+1749,Backend-разработчик (Python),Екатеринбург,python,284000,moreThan6
+1750,Backend-разработчик (Java),Москва,java,310000,between3And6
+1751,Инженер платформы,Удалённо,docker,120000,noExperience
+1752,Аналитик данных,Новосибирск,sql,251000,moreThan6
+1753,BI-аналитик,Екатеринбург,sql,235000,moreThan6
+1754,Разработчик баз данных,Удалённо,sql,182000,between3And6
+1755,Офис-менеджер,Удалённо,excel,47000,noExperience
+1756,Backend-разработчик (Python),Удалённо,python,135000,between1And3
+1757,Инженер платформы,Казань,docker,209000,between1And3
+1758,Data Engineer,Казань,python,301000,moreThan6
+1759,BI-аналитик,Санкт-Петербург,sql,93000,noExperience
+1760,Экономист,Екатеринбург,excel,105000,moreThan6
+1761,Java-разработчик,Казань,java,398000,moreThan6
+1762,Инженер платформы,Казань,docker,142000,noExperience
+1763,Разработчик баз данных,Санкт-Петербург,sql,99000,between1And3
+1764,Python-разработчик,Екатеринбург,python,119000,noExperience
+1765,Data Engineer,Удалённо,python,358000,moreThan6
+1766,Аналитик данных,Екатеринбург,sql,114000,between1And3
+1767,Аналитик данных,Казань,sql,73000,noExperience
+1768,Программист 1С,Екатеринбург,1c,76000,noExperience
+1769,BI-аналитик,Екатеринбург,sql,87000,noExperience
+1770,Офис-менеджер,Казань,excel,55000,between1And3
+1771,Программист 1С,Новосибирск,1c,203000,moreThan6
+1772,Java-разработчик,Екатеринбург,java,171000,between1And3
+1773,Frontend-разработчик,Москва,javascript,163000,between3And6
+1774,BI-аналитик,Екатеринбург,sql,195000,between3And6
+1775,Fullstack-разработчик,Казань,javascript,117000,noExperience
+1776,Backend-разработчик (Go),Екатеринбург,go,153000,between1And3
+1777,Экономист,Удалённо,excel,54000,noExperience
+1778,Экономист,Москва,excel,91000,between1And3
+1779,Офис-менеджер,Екатеринбург,excel,50000,between1And3
+1780,Программист 1С,Екатеринбург,1c,159000,between3And6
+1781,BI-аналитик,Москва,sql,227000,moreThan6
+1782,BI-аналитик,Казань,sql,129000,between1And3
+1783,Data Engineer,Екатеринбург,python,90000,noExperience
+1784,Аналитик данных,Москва,sql,199000,moreThan6
+1785,Офис-менеджер,Санкт-Петербург,excel,69000,between1And3
+1786,Консультант 1С,Санкт-Петербург,1c,146000,between3And6
+1787,Консультант 1С,Новосибирск,1c,139000,between1And3
+1788,Экономист,Казань,excel,122000,moreThan6
+1789,Data Engineer,Удалённо,python,306000,moreThan6
+1790,Разработчик баз данных,Казань,sql,128000,between1And3
+1791,Go-разработчик,Казань,go,134000,noExperience
+1792,Разработчик баз данных,Екатеринбург,sql,225000,between3And6
+1793,Программист 1С,Санкт-Петербург,1c,175000,between1And3
+1794,BI-аналитик,Санкт-Петербург,sql,64000,noExperience
+1795,Разработчик баз данных,Удалённо,sql,197000,between3And6
+1796,Backend-разработчик (Python),Санкт-Петербург,python,130000,noExperience
+1797,Офис-менеджер,Новосибирск,excel,162000,moreThan6
+1798,SRE-инженер,Удалённо,docker,205000,between1And3
+1799,Инженер платформы,Казань,docker,184000,between1And3
+1800,SRE-инженер,Удалённо,docker,292000,between3And6
