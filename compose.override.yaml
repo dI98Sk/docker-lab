@@ -1,0 +1,9 @@
+services:
+  api:
+    volumes:
+      - ./app:/app/app:ro
+
+  report:
+    build: ./report
+    image: hh-report:1.0
+    profiles: [tools]

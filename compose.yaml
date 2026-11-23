@@ -1,25 +1,34 @@
-# Стек для локального запуска. Иногда api не стартует с первого раза — просто перезапустите.
 services:
   api:
+    init: true
     build: .
     image: hh-api:dev
     ports:
-      - "8000:80"
+      - "8000:8000"
     environment:
       HOST: 0.0.0.0
       REDIS_HOST: redis
-      REDIS_PASSWORD: s3cret-redis
+      REDIS_PASSWORD: ${REDIS_PASSWORD:?set REDIS_PASSWORD in .env}
       DB_PATH: /app/var/hh.db
     volumes:
       - api-data:/app/var
     depends_on:
-      - redis
+      redis:
+        condition: service_healthy
 
   redis:
     image: redis:7-alpine
-    command: redis-server --requirepass s3cret-redis --appendonly yes
-    ports:
-      - "6379:6379"
+    command: ["redis-server", "--requirepass", "${REDIS_PASSWORD:?set REDIS_PASSWORD in .env}", "--appendonly", "yes"]
+    environment:
+      REDISCLI_AUTH: ${REDIS_PASSWORD:?set REDIS_PASSWORD in .env}
+    healthcheck:
+      test: ["CMD-SHELL", "redis-cli ping | grep -qx PONG"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    volumes:
+      - redis-data:/data
 
 volumes:
   api-data:
+  redis-data:
